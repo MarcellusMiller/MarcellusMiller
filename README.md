@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @MarcellusMiller
-- 👀 interested in participating in mobile front-end projects
+- 👋 Hi, I’m @MarcellusMiller i'am a dev back-end 
 
 
