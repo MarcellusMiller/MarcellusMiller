@@ -1,4 +1,6 @@
-<img width="692" height="388" alt="0523" src="https://github.com/user-attachments/assets/3556e853-7a1e-4ad9-8ee8-06ac599d48d2" />
+<div align="center">
+    <img src="./assets/backend-banner.gif" alt="Backend Banner"/>
+</div>
 
 <div align="center">
 
@@ -128,5 +130,5 @@ Internet Fundamentals
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SEU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcellusmiller/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MarcellusMiller)
