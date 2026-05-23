@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./0523.gif" width="850"/>
+  <img src="./assets/backend-banner-v2.gif" width="850" />
 </div>
 
 <div align="center">
